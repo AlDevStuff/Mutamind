@@ -27,3 +27,5 @@ Casey Lopez
 Noah Golder
 Benjamin Wong
 Al Rifat
+Built in Nucleotide Hackathon 2020.
+```
