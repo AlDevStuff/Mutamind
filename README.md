@@ -20,7 +20,7 @@ python nucleotide.py
 ```
 3. Insert one of the mentioned Gene HBB or HBA1 (HTT and F8 is available on high-end computer since the genetic sequence is long) and insert the entire sequence related to that gene found in test.py.
 <br />
-NOTE: **ALL GENE MUST BE CAPITALIZED**
+NOTE: **ALL GENE NAMES MUST BE CAPITALIZED** **ALL GENE SEQUENCE MUST BE LOWER CASE**
 
 
 
