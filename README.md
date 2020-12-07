@@ -1,6 +1,8 @@
 # Mutamind
 Given a set of genes, identify specific mutations and provide information on that mutation and the diseases/effects associated with them.
 
+Research and In-Depth Explanation: 
+https://docs.google.com/document/d/15DYT0Dn3oqhHmHjvvdd_FcwaOaWPpjFXyiAWlxmr7H0/edit?usp=sharing
 
 
 
