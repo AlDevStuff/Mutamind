@@ -15,7 +15,8 @@ git clone https://github.com/AlDevStuff/Mutamind.git
 python nucleotide.py
 ```
 3. Insert one of the mentioned Gene HBB or HBA1 (HTT and F8 is available on high-end computer since the genetic sequence is long) and insert the proper sequence.
-**ALL GENE MUST BE CAPITALIZED**
+<br />
+NOTE: **ALL GENE MUST BE CAPITALIZED**
 
 
 
