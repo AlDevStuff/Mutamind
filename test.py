@@ -3,14 +3,14 @@
 '''
 
 
-# Sickle Cell
+# Sickle Cell HBB
 
 aacgaatgagtaaatgagtaaatgaaggaatgattattccttgctttagaacttctggaattagtggaca atattaataa taccatcgca cagtgtttct ttgttgttaa tgctacaaca
 
 
 
 ------------------------------------------------------------im
-# Alpha
+# Alpha HBA1
 
 1 tagctgggat tacaggcgtg caccaccaca cccagctaat ttttgtattt ttagtagaga
        61 cggggtttct ccatgttggt cagcctggtc tcgaactccc gacctcagct gatccacccg
