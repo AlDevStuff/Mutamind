@@ -119,7 +119,7 @@ aacgaatgagtaaatgagtaaatgaaggaatgattattccttgctttagaacttctggaattagtggaca atattaata
 _________________________________________________________
 
 
-# Huntington's disease
+# Huntington's disease HTT
 
 
 1 acagatgaag gaggacgcgc ccccgccgct gtcctgcgcc tcagccatcc tatgagacgg
@@ -227,7 +227,7 @@ _________________________________________________________
 
    
    ---------------------------------------------------------
-# Hemophilia A F8
+# HemophiliaA F8
 
 1 ttagtatttt cactgccttt gtttttaaca taatttacgt aattttacgt ttatatgatt
        61 gagttttcaa tgatggctct gtttagcaat gggatcccgt gagtcagtac taaattaaat
